@@ -1,0 +1,17 @@
+baseURL: "https://www.paulodias.xyz"
+title: Paulo Dias
+
+enableEmoji: true
+disableKinds: ["taxonomy", "term"]
+languageCode: "en-us"
+enableRobotsTXT: true
+
+services:
+  googleAnalytics:
+    ID: G-JK5WTKKY1W
+
+googleAnalytics: G-JK5WTKKY1W
+
+params:
+  gravatar:
+    default: mp

@@ -1,0 +1,28 @@
+############################
+## Author
+############################
+
+author:
+  name: Paulo Dias
+  image: author.jpeg
+  greeting: "Staff Site Reliability Engineer, driving innovation through open source and automation, shaping tech success."
+  icon: ":wave:"
+
+############################
+## Links
+############################
+
+links:
+  - github: https://github.com/paulojmdias
+  - x-twitter: https://twitter.com/paulojmodias
+  - linkedin: https://linkedin.com/in/paulojomdias
+  - email: mailto:me@paulodias.xyz
+
+###############################
+## OpenGraph & Twitter Cards
+###############################
+
+title: Paulo Dias
+description: "Staff Site Reliability Engineer, driving innovation through open source and automation, shaping tech success."
+images:
+  - thumbnail.jpeg
